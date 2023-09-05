@@ -8,8 +8,7 @@
 - Currently working at Eva Cybersec
 - Security and AWS enthusiast
 
-
-![LinkedIn]([ttps://www.linkedin.com/in/absatyaprakash/(https://www.linkedin.com/in/gabriellysthefany-alves/)
+https://www.linkedin.com/in/gabriellysthefany-alves/
 
 
 ⤷ Desenvolvedora fullstack com experiência na criação de aplicativos robustos e seguros, visando sempre desenvolver aplicações com as melhores práticas de segurança, e interfaces amigáveis. 

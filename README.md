@@ -20,8 +20,6 @@ https://www.linkedin.com/in/gabriellysthefany-alves/
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/flask/flask.png" alt="Flask" width="25" height="25" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/aws/aws.png" alt="AWS" width="25" height="25" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/flask.svg" alt="Flask" width="25" height="25" style="margin-right: 10px;" />
-  <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/cloud/aws.svg" alt="AWS" width="25" height="25" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" style="margin-right: 10px;" />
   <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" style="margin-right: 10px;" />

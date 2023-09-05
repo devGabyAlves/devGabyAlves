@@ -9,7 +9,7 @@
 - Security and AWS enthusiast
 
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)([ttps://www.linkedin.com/in/absatyaprakash/(https://www.linkedin.com/in/gabriellysthefany-alves/)
+![LinkedIn]([ttps://www.linkedin.com/in/absatyaprakash/(https://www.linkedin.com/in/gabriellysthefany-alves/)
 
 
 ⤷ Desenvolvedora fullstack com experiência na criação de aplicativos robustos e seguros, visando sempre desenvolver aplicações com as melhores práticas de segurança, e interfaces amigáveis. 

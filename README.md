@@ -18,8 +18,6 @@ https://www.linkedin.com/in/gabriellysthefany-alves/
 <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/javascript.svg" alt="JavaScript" width="25" height="25" style="display: inline-block; margin-right: 10px;" />
 <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/python.svg" alt="Python" width="25" height="25" style="display: inline-block; margin-right: 10px;" />
 <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/core/typescript.svg" alt="Typescript" width="25" height="25" style="display: inline-block; margin-right: 10px;" />
-<img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/backend/flask.svg" alt="Flask" width="25" height="25" style="display: inline-block; margin-right: 10px;" />
-<img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/cloud/aws.svg" alt="AWS" width="25" height="25" style="display: inline-block; margin-right: 10px;" />
 <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/html5.svg" alt="HTML5" width="25" height="25" style="display: inline-block; margin-right: 10px;" />
 <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/css3.svg" alt="CSS3" width="25" height="25" style="display: inline-block; margin-right: 10px;" />
 <img src="https://raw.githubusercontent.com/0xShapeShifter/dev-story/master/public/images/skills/frontend/react.svg" alt="React" width="25" height="25" style="display: inline-block; margin-right: 10px;" />

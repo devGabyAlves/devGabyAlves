@@ -1,6 +1,8 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=header"/>
+
 <!-- Header Section -->
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F720EA&width=435&lines=%F0%9F%8C%90+Welcome+to+my+profile)](https://git.io/typing-svg)
-<h3 align="center"><font face="Arial"><a href="[https://www.linkedin.com/in/gabriellysthefany-alves/](https://www.linkedin.com/in/gabriellysthefany-alves/)/" target="_blank" rel="noreferrer">Fullstack developer in constant search for improvement and continuous learning. Passionate about coding, my journey is marked by a commitment to building resilient and efficient systems. I like to always experience new challenges, as these are where there are opportunities to grow and expand my skills.</font></h3>
+
   
 <!-- GitHub Infos -->
 <div align="center">
@@ -33,3 +35,4 @@
   </a>
 </div>
                                                        
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>

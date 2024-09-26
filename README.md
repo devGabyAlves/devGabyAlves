@@ -58,10 +58,4 @@
 
 ##
 
-<div align="center">
-  <br><p><b>Você é meu(a) visitante nº:</b></p>  
-  <p><img align="center" src="https://profile-counter.glitch.me/{devGabyAlves}/count.svg" /></p> 
-  <br>
-</div>
-
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=8F0D87&height=120&section=footer"/>
